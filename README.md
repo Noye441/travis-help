@@ -1,4 +1,4 @@
 # travis-help
 
 
-pek pek juice
+Uwi na ba kayo?
